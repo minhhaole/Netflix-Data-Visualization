@@ -18,3 +18,4 @@ The CSV file contains over 8000 lines of records, one for each production.
 
 # Visualization 
 
+<img width="593" alt="image" src="https://github.com/minhhaole/Netflix-Data-Visualization/assets/122378672/13d8fdb6-44dd-42af-9e6b-12f6e0c36caf">
